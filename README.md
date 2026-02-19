@@ -20,4 +20,6 @@ A fully responsive and dynamic e-commerce website built using HTML, CSS, and Jav
 - CSS3 (Flexbox + Grid)
 - JavaScript (ES6)
 - LocalStorage API
+## 🌐 Live Demo
 
+[Click Here to View Website](https://katikela-sindhu.github.io/ShopEasy-Ecommerce-Project/)
